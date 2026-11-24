@@ -1,0 +1,8 @@
+<svg width="200" height="48" viewBox="0 0 200 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="24" cy="24" r="23" fill="#EEF7E9"/>
+  <path d="M12 18H36L34 39H14L12 18Z" fill="#17C548"/>
+  <path d="M18 19V15C18 11.686 20.686 9 24 9C27.314 9 30 11.686 30 15V19" stroke="#17C548" stroke-width="3" stroke-linecap="round"/>
+  <path d="M18 25V32M24 25V32M30 25V32" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <text x="54" y="31" fill="#202820" font-family="Arial, sans-serif" font-size="24" font-weight="700">Qaf</text>
+  <text x="99" y="31" fill="#17C548" font-family="Arial, sans-serif" font-size="24" font-weight="700">Market</text>
+</svg>
